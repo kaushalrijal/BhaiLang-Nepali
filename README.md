@@ -29,7 +29,7 @@ To take user input, use the syntax:
 variable_name = haal bhai("Enter your name: ")
 ```
 
-Replace `'variable_name'` with the name or path of your BhaiLang Nepali file.
+Replace `'variable_name'` with the name of your variable.
 
 ## Running BhaiLang Nepali Programs
 
