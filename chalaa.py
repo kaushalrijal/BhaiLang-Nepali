@@ -1,5 +1,18 @@
 import sys
 
+syntax = [
+    {
+        "key" : "bhan bhai",
+        "code" : "print"
+    },{
+        "key" : "yo ho bhai",
+        "code" : ""
+    },{
+        "key" : "haal bhai",
+        "code" : "input"
+    }
+]
+
 def interprete(filepath):
     output = "" 
     code = open(filepath)
